@@ -20,7 +20,7 @@ So many free resources are available for computer science students and I am jeal
 - [ ] Vector and Tensor book
 - [ ] add robotics forum/abaqus nabble forum 
 - [ ] altair university books
-- [ ] 
+- [ ] Add trending research topics  and research papers
 
 ![Bilby Stampede](http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg)
 ###### This image is taken from the url http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/gear-wallpaper-6.jpg/
